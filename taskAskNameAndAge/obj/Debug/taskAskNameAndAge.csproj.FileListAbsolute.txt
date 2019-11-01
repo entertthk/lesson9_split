@@ -1,0 +1,5 @@
+C:\Users\Laptop\Desktop\lesson9\taskAskNameAndAge\bin\Debug\taskAskNameAndAge.exe.config
+C:\Users\Laptop\Desktop\lesson9\taskAskNameAndAge\bin\Debug\taskAskNameAndAge.exe
+C:\Users\Laptop\Desktop\lesson9\taskAskNameAndAge\bin\Debug\taskAskNameAndAge.pdb
+C:\Users\Laptop\Desktop\lesson9\taskAskNameAndAge\obj\Debug\taskAskNameAndAge.exe
+C:\Users\Laptop\Desktop\lesson9\taskAskNameAndAge\obj\Debug\taskAskNameAndAge.pdb

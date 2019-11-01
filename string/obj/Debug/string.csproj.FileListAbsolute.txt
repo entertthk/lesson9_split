@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\lesson9\string\bin\Debug\@string.exe.config
+C:\Users\Laptop\Desktop\lesson9\string\bin\Debug\@string.exe
+C:\Users\Laptop\Desktop\lesson9\string\bin\Debug\@string.pdb
+C:\Users\Laptop\Desktop\lesson9\string\obj\Debug\@string.exe
+C:\Users\Laptop\Desktop\lesson9\string\obj\Debug\@string.pdb
+C:\Users\Laptop\Desktop\lesson9\string\obj\Debug\string.csprojAssemblyReference.cache
